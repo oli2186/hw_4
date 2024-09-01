@@ -1,0 +1,23 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+p {
+    color: rgb(61, 135, 169);
+} 
+.bold1, .bold2 {
+    font-weight: bold;
+}
+.container >h1 {
+    font-weight:bold;
+}
+.color1 {
+    color: darksalmon;
+}
+.color2 {
+    color: cornflowerblue;
+}
+#color2 {
+    font-weight: bold;
+}
